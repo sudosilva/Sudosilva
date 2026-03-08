@@ -8,9 +8,9 @@
 
 - 👯 I'm looking to collaborate on **Java (Minecraft Clients), or anything that is interesting to me.**
 
-- 🤝 I'm looking for help with **Learning C++ and Cybersecurity**
+- 🤝 I'm Learning ** C++ and Cybersecurity**
 
-- 💬 Ask me about **Java, C++, Python for backends. HTML, CSS and JS for frontend. I'm fluent in using Django, Flask and Electron for python web and app development. My strong suite is java and python.**
+- 💬 Languages i code in **Java, C++, Python for backends. HTML, CSS and JS for frontend. I'm fluent in using Django, Flask and Electron for python web and app development. My strong suite is java and python.**
 
 - 📫 How to reach me **bytetalk (discord)**
 
