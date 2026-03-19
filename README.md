@@ -2,7 +2,7 @@
 
 ### A 15 year old java developer
 
-- 🔭 I'm currently working on **Ion Client, and Authentication systems for others.**
+- 🔭 I'm currently working on **Elysium Client, and Authentication systems for others.**
 
 - 🌱 I'm currently learning **C++, Cybersecurity.**
 
